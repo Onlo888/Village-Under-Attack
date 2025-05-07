@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1746613273 source:c:\users\ons lounissi\onedrive\desktop\attack\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	"Board.h"
+	"Player.h"
+	"Building.h"
+	"Wall.h"
+	"TownHall.h"
+	"Raider.h"
+	"GoldMine.h"
+	"ElixirCollector.h"
+
+1746114717 source:c:\users\ons lounissi\onedrive\desktop\attack\src\resources.cpp
+	"Resources.h"
+
+1746114699 c:\users\ons lounissi\onedrive\desktop\attack\include\resources.h
+
+1746457738 source:c:\users\ons lounissi\onedrive\desktop\attack\src\board.cpp
+	"Board.h"
+	"Position.h"
+	"Player.h"
+	<algorithm>
+
+1746183037 c:\users\ons lounissi\onedrive\desktop\attack\include\board.h
+	"Position.h"
+	"Building.h"
+	"TownHall.h"
+	"Entity.h"
+	<vector>
+
+1745771494 source:c:\users\ons lounissi\onedrive\desktop\attack\src\position.cpp
+	"Position.h"
+	<cstdlib>
+
+1745771220 c:\users\ons lounissi\onedrive\desktop\attack\include\position.h
+
+1746128403 source:c:\users\ons lounissi\onedrive\desktop\attack\src\building.cpp
+	"Building.h"
+	"Board.h"
+
+1746114808 c:\users\ons lounissi\onedrive\desktop\attack\include\building.h
+	"Position.h"
+	"Resources.h"
+	<iostream>
+
+1745781986 source:c:\users\ons lounissi\onedrive\desktop\attack\src\wall.cpp
+	"Wall.h"
+
+1745776053 c:\users\ons lounissi\onedrive\desktop\attack\include\wall.h
+	"Resources.h"
+	<Building.h>
+
+1746115186 source:c:\users\ons lounissi\onedrive\desktop\attack\src\townhall.cpp
+	"TownHall.h"
+
+1746115204 c:\users\ons lounissi\onedrive\desktop\attack\include\townhall.h
+	"Resources.h"
+	"Building.h"
+
+1745782616 source:c:\users\ons lounissi\onedrive\desktop\attack\src\resourcegenerator.cpp
+	"ResourceGenerator.h"
+
+1746045355 c:\users\ons lounissi\onedrive\desktop\attack\include\resourcegenerator.h
+	"Board.h"
+	<Building.h>
+
+1745782675 source:c:\users\ons lounissi\onedrive\desktop\attack\src\elixircollector.cpp
+	"ElixirCollector.h"
+
+1745782542 c:\users\ons lounissi\onedrive\desktop\attack\include\elixircollector.h
+	"Resources.h"
+	<ResourceGenerator.h>
+
+1745782688 source:c:\users\ons lounissi\onedrive\desktop\attack\src\goldmine.cpp
+	"GoldMine.h"
+	"GoldMine.h"
+
+1745782322 c:\users\ons lounissi\onedrive\desktop\attack\include\goldmine.h
+	"Resources.h"
+	<ResourceGenerator.h>
+
+1746129941 c:\users\ons lounissi\onedrive\desktop\attack\include\entity.h
+	"Position.h"
+
+1746457186 c:\users\ons lounissi\onedrive\desktop\attack\include\player.h
+	"Resources.h"
+	"Board.h"
+	<Entity.h>
+
+1746045396 source:c:\users\ons lounissi\onedrive\desktop\attack\src\entity.cpp
+	"Entity.h"
+	"Board.h"
+
+1746530833 source:c:\users\ons lounissi\onedrive\desktop\attack\src\enemy.cpp
+	"Enemy.h"
+	"Building.h"
+
+1746530863 c:\users\ons lounissi\onedrive\desktop\attack\include\enemy.h
+	"Board.h"
+	<Npc.h>
+
+1746129712 c:\users\ons lounissi\onedrive\desktop\attack\include\npc.h
+	"Board.h"
+	"Position.h"
+	<Entity.h>
+
+1746114974 source:c:\users\ons lounissi\onedrive\desktop\attack\src\npc.cpp
+	"Npc.h"
+
+1746457174 source:c:\users\ons lounissi\onedrive\desktop\attack\src\player.cpp
+	"Player.h"
+	"GoldMine.h"
+	"ElixirCollector.h"
+	"Wall.h"
+	"Building.h"
+
+1746129887 source:c:\users\ons lounissi\onedrive\desktop\attack\src\raider.cpp
+	"Raider.h"
+	<limits>
+
+1746613746 c:\users\ons lounissi\onedrive\desktop\attack\include\raider.h
+	"Building.h"
+	"Board.h"
+	<vector>
+	<ctime>
+	<Enemy.h>
+
+1746121611 source:c:\users\ons lounissi\onedrive\desktop\attack\src\humanplayer.cpp
+	"HumanPlayer.h"
+
+1746121619 c:\users\ons lounissi\onedrive\desktop\attack\include\humanplayer.h
+	"Board.h"
+	"Player.h"
+
